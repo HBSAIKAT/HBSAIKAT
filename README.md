@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" />
+  <img src="https://github.com/HBSAIKAT/MyBanner/blob/main/Black%20Green%20Modern%20Digital%20Marketing%20Open%20to%20Work%20LinkedIn%20Banner.png" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm MD HABIBUL BASHER SAIKAT</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbsaikat&label=Profile%20views&color=0e75b6&style=flat" alt="hbsaikat" /> </p>
