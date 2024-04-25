@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm MD HABIBUL BASHER SAIKAT</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbsaikat&label=Profile%20views&color=0e75b6&style=flat" alt="hbsaikat" /> </p>
 
